@@ -8,8 +8,8 @@ Run `npm start` and visit [http://localhost:3000](http://localhost:3000)
 
 ### Building for prudction
 
-`npm run build`
+build like this: `npm run build`
 
 ### Deployment
 
-TODO
+TODO: Add
