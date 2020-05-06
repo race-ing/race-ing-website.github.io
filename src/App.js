@@ -5,7 +5,7 @@ function App() {
     return (
         <div className="App">
             <header>
-                Race-Ing Website
+                <img height='200px' src={process.env.PUBLIC_URL + '/img/raceing_logo_schwarz.png'} alt="Logo" />;
             </header>
         </div>
     );
